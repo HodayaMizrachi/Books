@@ -1,0 +1,11 @@
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\bin\Debug\net8.0\books.DTO.deps.json
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\bin\Debug\net8.0\books.DTO.dll
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\bin\Debug\net8.0\books.DTO.pdb
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\books.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\books.DTO.AssemblyInfoInputs.cache
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\books.DTO.AssemblyInfo.cs
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\books.DTO.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\books.DTO.dll
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\refint\books.DTO.dll
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\books.DTO.pdb
+C:\Users\IMOE001\Desktop\לימודים\המכללה למנהל\הכנה לפרקטיקום\books\books.DTO\obj\Debug\net8.0\ref\books.DTO.dll
